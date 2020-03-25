@@ -1,0 +1,11 @@
+def login():
+    url = "http://test.ybtmicro.sxftech.com/login"
+    name = (By.XPATH, "//input[@name ='account']")
+    pwd = (By.XPATH, "//input[@name ='password']")
+    loginButton = (By.XPATH, "//button[contains(text(),'µÇÂ¼')]")
+
+    driver = BasePage("cc", url)
+    driver.locator(name).send_keys("pazhou")
+    driver.locator(pwd).send_keys("123456")
+    driver.locator(loginButton).click()
+    return driver
