@@ -1,0 +1,51 @@
+{
+  "uid" : "3c20489ad600dc10",
+  "name" : "testlmm02",
+  "fullName" : "testlmm.Testlmm#testlmm02",
+  "historyId" : "3e648caf0cfc0857f00592c50b6e88f8",
+  "time" : {
+    "start" : 1585270858682,
+    "stop" : 1585270858682,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "testlmm"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testlmm"
+  }, {
+    "name" : "host",
+    "value" : "PC-201911061028"
+  }, {
+    "name" : "thread",
+    "value" : "10216-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testlmm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c20489ad600dc10.json",
+  "parameterValues" : [ ]
+}

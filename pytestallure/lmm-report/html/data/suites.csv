@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","1","","test","Testclass","","","test02",""
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","0","","testlmm","Testlmm","","","testlmm03",""
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","0","","test","Testclass","","","test01",""
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","0","","test","Testclass","","","test03",""
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","0","","testlmm","Testlmm","","","testlmm01",""
+"passed","Fri Mar 27 12:21:56 CST 2020","Fri Mar 27 12:21:56 CST 2020","0","","testlmm","Testlmm","","","testlmm02",""
