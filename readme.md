@@ -1,2 +1,2 @@
-#pytest + allure
-###生成allure报告
+# pytest + allure
+### 生成allure报告
